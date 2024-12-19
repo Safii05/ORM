@@ -38,7 +38,7 @@ class BankloanAdmin(admin.ModelAdmin):
 # OUTPUT
 ![alt text](<safii/safii/Screenshot (1).png>)
 
-![Screenshot 2024-12-07 153616](https://github.com/user-attachments/assets/7b028a96-958f-469f-9317-06978105afc6)
+![web](https://github.com/user-attachments/assets/1106025f-aaee-494a-9591-4992395e5a3a)
 
 
 # RESULT
