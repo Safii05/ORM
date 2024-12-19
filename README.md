@@ -43,10 +43,9 @@ class BankloanAdmin(admin.ModelAdmin):
 ```
 # OUTPUT
 
-![Uploading Screenshot 2024-11-27 224429.png…]()
+![Screenshot 2024-11-27 224429](https://github.com/user-attachments/assets/c731c571-968e-4f6b-afdc-819c39f16b19)
 
-
-![web](https://github.com/user-attachments/assets/9f9e9434-148e-46f0-bb0c-eb3753af0225)
+![web](https://github.com/user-attachments/assets/ad75ce37-94ae-4909-b3b5-4645814593cc)
 
 
 
